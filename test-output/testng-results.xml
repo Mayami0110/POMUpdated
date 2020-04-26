@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17775" started-at="2020-04-19T12:34:03Z" finished-at="2020-04-19T12:34:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17775" started-at="2020-04-19T12:34:03Z" finished-at="2020-04-19T12:34:21Z">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@5d47c63f]" name="setup" is-config="true" duration-ms="16967" started-at="2020-04-19T18:04:03Z" finished-at="2020-04-19T18:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@5d47c63f]" name="verifyLoginPageTitleTest" duration-ms="118" started-at="2020-04-19T18:04:20Z" finished-at="2020-04-19T18:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@5d47c63f]" name="teardown" is-config="true" duration-ms="652" started-at="2020-04-19T18:04:20Z" finished-at="2020-04-19T18:04:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
